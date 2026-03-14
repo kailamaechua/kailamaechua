@@ -18,7 +18,7 @@
 body {
     font: 0.7em/1.2em Times, serif;
     background:
-        url(/img/Background.png) -30px 0px no-repeat fixed,
+        url(Background.png) -30px 0px no-repeat fixed,
      url(/img/black-background.gif) center right no-repeat fixed;
     background-size: auto, cover;
     background-color: #cca81c;
@@ -82,13 +82,13 @@ abbr {
 /* more specific rules */
 
 .page-wrapper {
-	background: #000 url(/img/bottom-corner.png) no-repeat bottom right;
+	background: #000 url(/bottom-corner.png) no-repeat bottom right;
 	color: inherit;
 	width: 300px;
 }
 
 header {
-	background: url(/img/header.png) no-repeat top left;
+	background: url(/header.png) no-repeat top left;
 	width: 300px;
 	height: 170px;
 }
@@ -109,23 +109,23 @@ h1, h2 {
 bracket (left or right) with its own different texture of dirt */
 
 .preamble {
-	background: url(/img/bracket-l1.png) no-repeat top left;
+	background: url(/bracket-l1.png) no-repeat top left;
 }
 
 .participation {
-	background: url(/img/Bracket-l2.png) no-repeat top left;
+	background: url(/bracket-l2.png) no-repeat top left;
 }
 
 .requirements {
-	background: url(/img/Bracket-l3.png) no-repeat top left;
+	background: url(/bracket-l3.png) no-repeat top left;
 }
 
 .benefits {
-	background: url(/img/Bracket-r1.png) no-repeat top right;
+	background: url(/bracket-r1.png) no-repeat top right;
 }
 
 .explanation {
-	background: url(/img/Bracket-r2.png) no-repeat top right;
+	background: url(/bracket-r2.png) no-repeat top right;
 }
 
 
@@ -142,7 +142,7 @@ bracket (left or right) with its own different texture of dirt */
 
 .sidebar .wrapper {
 	margin-top: 30px;
-	background: url(/img/menu-body.png) #000;
+	background: url(/menu-body.png) #000;
 	color: inherit;
 }
 
@@ -154,14 +154,14 @@ bracket (left or right) with its own different texture of dirt */
 .sidebar .wrapper>.design-selection {
 	/* slight kludge ? sure...but it adds nice eye candy. hidden from IE through the child selector,
 	and we make up for it later with extra1 */
-	background: url(/img/flower.png) no-repeat top left;
+	background: url(/flower.png) no-repeat top left;
 	margin-left: -65px;
 	padding-left: 80px;
 	min-height: 150px;
 }
 
 .zen-resources {
-	background: url(/img/menu-bottom.png) no-repeat bottom right;
+	background: url(/menu-bottom.png) no-repeat bottom right;
 	padding-bottom: 2.5em;
 }
 
@@ -169,7 +169,7 @@ bracket (left or right) with its own different texture of dirt */
 /* static version of what was originally a flyout menu...but didn't work in Netscape 7 */
 
 .page-wrapper>.sidebar {
-	background: url(/img/menu-top.png) no-repeat top right;
+	background: url(/menu-top.png) no-repeat top right;
 }
 
 .sidebar .wrapper{
