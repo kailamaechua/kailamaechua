@@ -113,19 +113,19 @@ bracket (left or right) with its own different texture of dirt */
 }
 
 .participation {
-	background: url(../img/bracket-l2.png) no-repeat top left;
+	background: url(../img/Bracket-l2.png) no-repeat top left;
 }
 
 .requirements {
-	background: url(../img/bracket-l3.png) no-repeat top left;
+	background: url(../img/Bracket-l3.png) no-repeat top left;
 }
 
 .benefits {
-	background: url(../img/bracket-r1.png) no-repeat top right;
+	background: url(../img/Bracket-r1.png) no-repeat top right;
 }
 
 .explanation {
-	background: url(../img/bracket-r2.png) no-repeat top right;
+	background: url(../img/Bracket-r2.png) no-repeat top right;
 }
 
 
